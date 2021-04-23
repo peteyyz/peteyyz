@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on fetching stock data via APIs and web scraping.
-🌱 I’m currently learning Python.
-:nerd_face: I'm currently obsessed with astronomy images, personal finance, Python, cats.
+* 🔭 I’m currently working on fetching stock data via APIs and web scraping.
+* 🌱 I’m currently learning Python.
+* :nerd_face: I'm currently obsessed with astronomy images, personal finance, Python, cats.
 
 <!--
 **peteyyz/peteyyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
